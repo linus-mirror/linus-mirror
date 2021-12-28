@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunil Kumar aka linusmirror
-- 👀 I’m interested in Developing Apps
-- 🌱 I’m currently learning B.E
+- 👀 I’m interested in Embedded Systems
+- 🌱 I’m Electronics and Communication Engineer
 - 📫 How to reach me sunilkumarsivalingam@gmail.com
 
 <!---
