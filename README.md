@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sunil Kumar aka linusmirror
-- 👀 I’m interested in Embedded Systems
+- 👀 I’m interested in Embedded Product Development
 - 🌱 I’m Electronics and Communication Engineer
 - 📫 How to reach me sunilkumarsivalingam@gmail.com
 
