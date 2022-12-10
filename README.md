@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Sunil Kumar aka linusmirror
-- 👀 I’m interested in Embedded Product Development
-- 🌱 I’m Electronics and Communication Engineer
+- 👀 Engineer at **TATA Elxsi**
+- 🌱 I’m also a AUTOSAR | Embedded Software Developer
 - 📫 How to reach me sunilkumarsivalingam@gmail.com
+- 🖥️ https://www.linkedin.com/in/sunilkumar-1997/
 
 <!---
 linus-mirror/linus-mirror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
